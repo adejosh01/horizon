@@ -31,7 +31,7 @@ import {
       <Table>
         <TableHeader className="bg-[#f9fafb]">
           <TableRow>
-            <TableHead className="px-2">Transactions</TableHead>
+            <TableHead className="px-2">Transaction</TableHead>
             <TableHead className="px-2">Amount</TableHead>
             <TableHead className="px-2">Status</TableHead>
             <TableHead className="px-2">Date</TableHead>
